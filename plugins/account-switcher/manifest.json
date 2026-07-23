@@ -1,0 +1,14 @@
+{
+    "name": "Account Switcher",
+    "description": "Быстрое переключение между сохранёнными аккаунтами.",
+    "authors": [
+        {
+            "name": "You!",
+            "id": "YOUR_ID_HERE"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_account_circle"
+    }
+}
